@@ -1,0 +1,1 @@
+web: node --harmony lib/ --port=3000 --webSocketPort=3001
